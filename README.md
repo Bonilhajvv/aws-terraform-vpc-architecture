@@ -49,7 +49,7 @@ aws configure
 ```
 *Preencha com sua `Access Key ID`, `Secret Access Key`, região `us-east-1` e formato `json`.*
 
-#### 🧪 Testar configuração
+#### Testar configuração
 `aws s3 ls`
 - Se listar seus buckets (ou não retornar erro de permissão), está funcionando! ✅
 
