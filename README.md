@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AWS Infrastructure with Terraform 🚀
 
 Este projeto utiliza o **Terraform** para provisionar uma infraestrutura completa e segura na AWS, incluindo VPC, Subnets Públicas e Privadas, NAT Gateway e instâncias EC2.
@@ -131,6 +130,3 @@ Este projeto foi desenvolvido com base no conteúdo e ensinamentos de **Fabricio
 <!-- - **Vídeo de referência**: https://www.youtube.com/watch?v=cQlS0QpGYSk -->
 
 
-=======
-# aws-terraform-vpc-architecture
->>>>>>> 61e392ea4ed7c3c80a5392b31e040ccc8aa09572
