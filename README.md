@@ -1,4 +1,4 @@
-# AWS Infrastructure with Terraform 🚀
+# AWS Infrastructure with Terraform
 
 Este projeto utiliza o **Terraform** para provisionar uma infraestrutura completa e segura na AWS, incluindo VPC, Subnets Públicas e Privadas, NAT Gateway e instâncias EC2.
 
@@ -58,7 +58,7 @@ aws configure
 
 ---
 
-### 🧱 Terraform
+### Terraform
 
 #### Instalação
 - **Ubuntu / Debian:**
