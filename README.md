@@ -123,6 +123,15 @@ Siga os passos abaixo na ordem para gerenciar sua infraestrutura:
 ### Providers e Registry
 Os **Providers** são plugins que permitem ao Terraform se comunicar com diferentes nuvens (AWS, Azure, GCP). Você pode encontrar todos no [Terraform Registry](https://registry.terraform.io/).
 
+
+---
+
+## Recursos Adicionais
+
+Para facilitar o estudo e tirar dúvidas sobre os conceitos aplicados neste projeto, você pode consultar minhas anotações pessoais no Notion:
+
+- [Anotações de Estudos - Terraform](https://www.notion.so/Terraform-33b6a62fe40e804da35ec9080efe3a34?source=copy_link)
+
 ---
 
 ## Créditos e Agradecimentos
