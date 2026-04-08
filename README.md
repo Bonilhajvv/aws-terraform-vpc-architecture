@@ -2,6 +2,8 @@
 
 Este projeto utiliza o **Terraform** para provisionar uma infraestrutura completa e segura na AWS, incluindo VPC, Subnets Públicas e Privadas, NAT Gateway e instâncias EC2.
 
+Foi desenvolvido com o objetivo de aprofundar conhecimnetos em infraestrutura como código (IaC), utilizando Terraform para provisionamento de recursos na AWS, com foco em boas práticas de arquitetura em nuvem.
+
 ---
 
 ## Arquitetura do Projeto
